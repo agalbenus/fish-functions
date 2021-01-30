@@ -1,1 +1,4 @@
-fr.fish requires fzf and ripgrep installed
+fr.fish requires:
+  - fzf 
+  - ripgrep
+  - nvim
